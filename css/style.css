@@ -1,0 +1,35 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(165, 165, 165);
+}
+
+.quem-somos{
+    background-color: rgb(200, 200, 200);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.marca-margin{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.empresas{
+    background-color: #777777;
+}
+
+.logo-site{
+    padding-left: 10px;
+}
+
+.bg-footer{
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+}
